@@ -1,0 +1,10 @@
+.App h1 {
+    color: white;
+    font-weight: 900;
+    font-size: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    margin: 0;
+  }
